@@ -22,7 +22,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/text_film_title"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="30sp"
+        android:layout_marginTop="20sp"
         android:textColor="@color/black"
         android:textSize="28sp"
         tools:text="Producer" />
@@ -34,7 +34,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/original_text_film_title"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="80sp"
+        android:layout_marginTop="60sp"
         android:textColor="@color/black"
         android:textSize="20sp"
         tools:text="Description" />
